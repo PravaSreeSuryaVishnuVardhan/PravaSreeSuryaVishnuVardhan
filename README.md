@@ -31,7 +31,7 @@ Mindset: Curious • Consistent • Slightly obsessed with improvement
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,angular,hibernate,python,js,ts,nodejs,express,mongodb,mysql,git,postman,linux,html,css" />
+<img src="https://skillicons.dev/icons?i=java,spring,angular,hibernate,python,js,ts,nodejs,express,mongodb,mysql,git,postman,html,css" />
 
 </div>
 
