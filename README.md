@@ -59,25 +59,6 @@ Mindset: Curious • Consistent • Slightly obsessed with improvement
 * Interactive HR dashboards for decision-making
 * Role-based access across the platform
 
----
-
-## 📊 Coding Activity & Stats (Because Numbers Tell Stories)
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PravaSreeSuryaVishnuVardhan&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PravaSreeSuryaVishnuVardhan&layout=compact&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PravaSreeSuryaVishnuVardhan&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🌐 Let’s Connect & Build Cool Stuff
 
 <div align="center">
@@ -113,6 +94,6 @@ Mindset: Curious • Consistent • Slightly obsessed with improvement
 <div align="center">
 
 🛠️ *Still evolving. Still building. Still learning.*
-⭐ If something here helped or inspired you — star a repo or say hi!
+⭐ If something here helped or inspired you — feel free to reach out!
 
 </div>
