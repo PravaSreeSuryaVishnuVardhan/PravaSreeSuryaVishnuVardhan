@@ -27,13 +27,7 @@ Mindset: Curious • Consistent • Slightly obsessed with improvement
 
 ---
 
-## 🛠️ Tech I Actually Use 
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,angular,hibernate,python,js,ts,nodejs,express,mongodb,mysql,git,postman,html,css" />
-
-</div>
 
 ---
 
@@ -79,15 +73,7 @@ Mindset: Curious • Consistent • Slightly obsessed with improvement
 
 ---
 
-<div align="center">
 
-### 🧭 Philosophy
-
-> *Consistency beats motivation*
-
-<img src="https://user-images.githubusercontent.com/74038190/216656972-9b9e2e4b-7c8b-4c9c-9d1f-7dbce2f40c9c.gif" width="300" />
-
-</div>
 
 ---
 
