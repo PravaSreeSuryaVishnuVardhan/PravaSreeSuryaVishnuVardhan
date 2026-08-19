@@ -28,9 +28,6 @@ Mindset: Curious • Consistent • Slightly obsessed with improvement
 ---
 
 
-
----
-
 ## 🧩 Featured Builds
 
 ### 🏢 Employee Leave & Attendance Management System
@@ -73,9 +70,6 @@ Mindset: Curious • Consistent • Slightly obsessed with improvement
 
 ---
 
-
-
----
 
 <div align="center">
 
